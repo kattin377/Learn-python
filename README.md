@@ -1,2 +1,4 @@
 # Learn-python
-Data processing; Draw
+Part1: Data processing
+
+Part2: Using python to Draw
